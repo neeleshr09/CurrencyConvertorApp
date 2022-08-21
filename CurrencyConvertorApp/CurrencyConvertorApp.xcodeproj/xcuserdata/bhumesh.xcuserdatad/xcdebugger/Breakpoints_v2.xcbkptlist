@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDBD4649-5800-4729-ABED-94B176EA2640"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E109296-AE58-4AE6-91E9-5251624F3D63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConvertorApp/ViewModel/FetchData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E109296-AE58-4AE6-91E9-5251624F3D63 - 2839878c59a00360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConvertorApp.FetchData.(fetch in _8AEDB2C8261A81D508A522B78139681E)() -&gt; ()"
+                  moduleName = "CurrencyConvertorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhumesh/Desktop/Neel/CurrencyConvertorApp/CurrencyConvertorApp/ViewModel/FetchData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  uuid = "0E109296-AE58-4AE6-91E9-5251624F3D63 - 21ed20ff58230e85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CurrencyConvertorApp.FetchData.(fetch in _8AEDB2C8261A81D508A522B78139681E)() -&gt; ()"
+                  moduleName = "CurrencyConvertorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhumesh/Desktop/Neel/CurrencyConvertorApp/CurrencyConvertorApp/ViewModel/FetchData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "295">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3333DFC0-7888-4874-80E2-9A0C8225C507"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConvertorApp/ViewModel/FetchData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAA4396A-BDC2-43A2-9C58-FDFC80BC0944"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConvertorApp/ViewModel/FetchData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadLocalData(withFileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
